@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER PIXEL ART: CIUDAD CYBERPUNK -->
-  <img src="./assets/banner.jpg" alt="reygan Cyberpunk City Banner" width="100%" style="border-radius: 8px;" />
+  <img src="./assets/banner.png" alt="reygan Cyberpunk City Banner" width="100%" style="border-radius: 8px;" />
 
   <br><br>
 
