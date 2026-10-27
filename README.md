@@ -1,100 +1,94 @@
 <div align="center">
 
-<!-- Reemplaza esta línea por tu banner diseñado en Canva/Figma (sube la imagen a una carpeta assets/ en este repo) -->
-<img src="assets/banner.png" alt="reygan13 banner" width="100%">
+  <!-- BANNER PIXEL ART: CIUDAD CYBERPUNK -->
+  <img src="./assets/banner.png" alt="reygan Cyberpunk City Banner" width="100%" style="border-radius: 8px;" />
+
+  <br><br>
+
+  <!-- ENCABEZADO PRINCIPAL -->
+  <h2>👾 Hola, soy <code>reygan</code></h2>
+
+  <!-- CONSOLA ANIMADA (TYPING SVG) -->
+  <a href="https://github.com/reygan13">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E+system.online+%E2%80%94+welcome_reygan;%3E+Ingenier%C3%ADa+en+IA+%7C+Backend_Dev+%7C+Game_Engines" alt="Terminal Typing SVG" />
+  </a>
 
 </div>
 
-<h1 align="center">👻 REYGAN13 👻</h1>
-<h3 align="center">Backend Developer · Unity Developer · AI Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=550&lines=Invocando+c%C3%B3digo+desde+el+Reino+Espectral...;Backend+Developer+%7C+Unity+%7C+Python;Entrenando+modelos+de+IA+como+quien+atrapa+fantasmas" alt="Typing SVG" />
-</p>
-
 ---
 
-## 👻 Sobre mí
-
-> *"No todos los que programan de noche son fantasmas... pero yo sí."*
-
-- 🔮 Soy un **desarrollador Backend** con un espíritu errante por **Unity** y la **Inteligencia Artificial**.
-- ⚰️ Como buen tipo Fantasma, **atravieso stacks** que a otros les cuesta tocar: del servidor al motor de juego, y de ahí a los modelos de IA.
-- 🕯️ Actualmente invocando nuevos proyectos y entrenando modelos que aprenden solos (casi tan espeluznante como yo).
-- 🌙 Creo en el código limpio, las arquitecturas sólidas y un buen jumpscare de vez en cuando en los commits.
-
----
-
-## 🕸️ Movimientos aprendidos (Tech Stack)
-
+<!-- SECCIÓN SOBRE MÍ (TARJETA DE VIÑETAS) -->
 <div align="center">
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-8A2BE2?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" />
-
-### 🎮 Game Dev
-<img src="https://img.shields.io/badge/Unity-6A0DAD?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=csharp&logoColor=white" />
-
-### 🧠 Inteligencia Artificial
-<img src="https://img.shields.io/badge/PyTorch-4B0082?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-4B0082?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-### 🛠️ Herramientas
-<img src="https://img.shields.io/badge/Git-2E1A47?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-2E1A47?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
+  <h3><code>&gt;_ whoami</code></h3>
+  <table>
+    <tr>
+      <td align="left">
+        <code>🟢 SYS.ID:</code> <b>reygan13 // NETRUNNER_NODE</b><br><br>
+        🔹 🎓 Estudiante de <b>Ingeniería en Inteligencia Artificial</b>.<br>
+        🔹 🧠 Apasionado por el mundo de la <b>IA</b>, modelos y automatización.<br>
+        🔹 ⚙️ Enfocado en el desarrollo y arquitectura <b>Backend</b>.<br>
+        🔹 🎮 Desarrollo interactivo y lógica de sistemas en motores de videojuegos.
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📊 Estadísticas del Reino Espectral
-
+<!-- SECCIÓN DE TECNOLOGÍAS (FORMATO CUADRÍCULA DE ICONOS) -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=reygan13&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9c9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reygan13&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reygan13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="48%" />
-
+  <h3>⚡ Tecnologías y Herramientas ⚡</h3>
+  <br>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,godot,unity,sqlite,mysql&theme=dark&perline=5" alt="Tech Stack" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Core_Stack-Python_%7C_Godot_%7C_Unity_%7C_SQL-0D1117?style=flat-square&labelColor=050807&color=00FF66" alt="Core Stack" />
+  </p>
 </div>
 
 ---
 
-## 📈 Gráfico de Contribuciones
-
+<!-- ELEMENTOS 1 Y 2: ESTADÍSTICAS, RACHAS Y LENGUAJES MÁS USADOS -->
 <div align="center">
+  <h3>📊 Métricas del Sistema</h3>
+  <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reygan13&theme=react-dark&bg_color=0d0d0d&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" width="100%" />
+  <!-- Estadísticas Generales + Racha Actual -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=reygan13&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00E5FF&border_color=00FF66&border_radius=6&locale=es" height="165" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=reygan13&theme=dark&background=0D1117&border=00FF66&stroke=00E5FF&ring=00FF66&fire=00FF66&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E&locale=es&border_radius=6" height="165" alt="GitHub Streak" />
+  </p>
 
+  <!-- Lenguajes Más Usados -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reygan13&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=00FF66&border_radius=6&locale=es" height="165" alt="Top Languages" />
+  </p>
 </div>
 
 ---
 
-## 📡 Invócame
-
+<!-- ELEMENTO 5: WINS & ÁREAS DE ENFOQUE -->
 <div align="center">
+  <h3>🏆 Wins & Enfoque de Desarrollo</h3>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/AI_Engineering-Sistemas_Inteligentes_%26_Modelos-0D1117?style=flat-square&logo=python&logoColor=00FF66&labelColor=050807&color=00FF66" alt="AI Engineering" />
+    <img src="https://img.shields.io/badge/Backend_Systems-L%C3%B3gica_%7C_APIs_%7C_SQL-0D1117?style=flat-square&logo=sqlite&logoColor=00E5FF&labelColor=050807&color=00E5FF" alt="Backend Systems" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Game_Dev-Prototipado_en_Godot_%26_Unity-0D1117?style=flat-square&logo=godotengine&logoColor=00FF66&labelColor=050807&color=00FF66" alt="Game Dev" />
+  </p>
 
-<a href="mailto:tuemail@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/tu-usuario">
-  <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/reygan13">
-  <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <!-- Plantilla lista para agregar futuros logros o repositorios específicos -->
+  <!-- 
+  <p>
+    <a href="https://github.com/reygan13/nombre-del-repo">
+      <img src="https://img.shields.io/badge/Proyecto_Destacado-Nombre_Del_Proyecto-0D1117?style=flat-square&labelColor=050807&color=00E5FF" alt="Proyecto" />
+    </a>
+  </p>
+  -->
 
+  <br>
+  <code>&gt;_ [ EOF // REYGAN13_CITY_NODE: ONLINE ]</code>
 </div>
-
-<p align="center">
-  <sub>👻 Hecho con código y un poco de ectoplasma por <b>reygan13</b> 👻</sub>
-</p>
